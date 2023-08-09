@@ -1,0 +1,14 @@
+{
+  "name": "ch4",
+  "version": "1.0.0",
+  "description": "\"es6  import\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+
+}

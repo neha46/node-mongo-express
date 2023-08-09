@@ -1,15 +1,13 @@
 {
-  "name": "server",
+  "name": "ch5",
   "version": "1.0.0",
+  "description": "\"files system\"",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "start": "node index.js"
   },
-  "author": "neha",
-  "license": "ISC",
-  "keywords": [
-    "tg3tg"
-  ],
-  "description": ""
+  "author": "",
+  "license": "ISC"
 }
