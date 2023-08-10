@@ -1,0 +1,13 @@
+{
+  "name": "ch7",
+  "version": "1.0.0",
+  "description": "\"url module\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "\"anisha",
+  "license": "ISC"
+}
