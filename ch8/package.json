@@ -1,0 +1,14 @@
+
+{
+  "name": "ch7",
+  "version": "1.0.0",
+  "description": "\"url module\"",
+  "main": "index.js",
+
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "\"anisha",
+  "license": "ISC"
+  }
+
