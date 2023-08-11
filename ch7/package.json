@@ -5,9 +5,12 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "jest",
-    "start": "node index.js"
+    "dev": "nodemon index",
+    "start": "node index"
   },
   "author": "\"anisha",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
